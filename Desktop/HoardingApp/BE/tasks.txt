@@ -1,0 +1,6 @@
+23/06 - Registration - HOD
+
+Created a crude registration end point (logics still needs to be implemented) to clear off the bottle neck created due to how the tasks were assigned. A crude base html was also created, you can extend this to create your own html pages. Only the home page, login and signup links are active. But once you sign in, a logic in the base html will kick in, what you'll see will be a different set of inactive links. 
+Just incase the active links don't work...just add /signup, /login to your local address.
+Olamz, I created a basic post model inorder to be able to create a home page, please delete this and create yours.
+Nevis, I did a rudimentary login function and html to test my signup function, please delete them and create yours.
