@@ -1,0 +1,8 @@
+[run]
+
+source = authentication/, 
+
+omit = 
+    venv
+    */migration/*
+    */__init__.py
